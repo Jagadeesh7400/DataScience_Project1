@@ -1,6 +1,9 @@
 # Sample vs Population Statistical Analysis Dashboard
 
-![Dashboard Overview](./user-attachments/assets/74946f4d-b1e0-4e1d-95ed-0266664f9a71)
+<p>&nbsp;</p>
+<p align="center">
+  <img width="586" alt="image" src="https://github.com/user-attachments/assets/9615b818-6f0e-4ba5-a643-a82802e316c4">
+</p>
 
 
 > **An interactive Excel dashboard to analyze and compare sample and population data, focusing on central tendency and dispersion measures.**
@@ -39,8 +42,10 @@ The dashboard employs dynamic visualizations, such as charts and graphs, to simp
 
 Here’s a glimpse of the dashboard:
 
-![Dashboard Snapshot](./assets/dashboard-snapshot.png)
-
+<p>&nbsp;</p>
+<p align="center">
+  <img width="586" alt="image" src="https://github.com/user-attachments/assets/d1e4aded-ea4d-4ca2-a8d6-d0ca36178144">
+</p>
 - **Central Tendency:** A side-by-side bar graph compares the mean, median, and mode of sample data versus population data.
 - **Dispersion Analysis:** Displays a histogram for both sample and population, showing the range and standard deviation.
 - **Color Coding:** Different colors help distinguish between sample and population datasets for clarity.
